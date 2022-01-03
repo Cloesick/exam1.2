@@ -1,0 +1,27 @@
+html,
+body{
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 79%);
+}
+
+nav{
+
+}
+
+footer{
+
+}
+
+.nav li{
+    list-style: none;
+}
+
+.unordered li{
+    list-style: circle;   
+    background-image: url(img/✅✔✓☑\ Check\ mark\ -\ Tick\ symbol\ 💯☐☒❎✗✘.mhtml);
+    background-repeat: repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+
+
+}
